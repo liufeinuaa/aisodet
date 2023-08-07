@@ -1,0 +1,17 @@
+# 自编的train engine 需要的包
+matplotlib
+numpy
+torch
+pycocotools
+
+# 不指定版本依赖
+mmengine 
+mmcv
+mmdet
+mmrotate
+
+
+
+
+
+
