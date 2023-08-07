@@ -13,7 +13,7 @@ for Degraded Aerial Images”
 
 ### 依赖的开源库
 ```
-torch                         1.9.0+cu111  #torch 13.1 也没问题
+torch                         1.9.0+cu111  #torch 1.13.1 也没问题
 torchvision                   0.10.0+cu111 
 # openmmlab的库
 mmengine                      0.7.2
